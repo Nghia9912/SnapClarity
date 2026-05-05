@@ -1,0 +1,17 @@
+name = "ai-text-assistant"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Sau khi deploy, URL của bạn sẽ là:
+# https://ai-text-assistant.<your-subdomain>.workers.dev
+#
+# Copy URL này vào WORKER_URL trong extension/background.js
+
+# ─── Secrets (KHÔNG để plain text ở đây) ─────────────────────────────────
+# Set qua terminal:
+#   npx wrangler secret put GEMINI_API_KEY
+#   npx wrangler secret put GUMROAD_PRODUCT_ID
+#   npx wrangler secret put GUMROAD_ACCESS_TOKEN
+#
+# Hoặc set qua Cloudflare Dashboard:
+#   Workers → ai-text-assistant → Settings → Variables → Add variable
