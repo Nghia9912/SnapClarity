@@ -71,6 +71,30 @@ ai-text-assistant/
 
 ---
 
+## Supported Languages
+
+- English
+- Vietnamese
+- Spanish
+- French
+- German
+- Italian
+- Portuguese
+- Russian
+- Arabic
+- Hindi
+- Japanese
+- Korean
+- Chinese
+
+---
+
+## Support me here
+
+https://royalnghia.gumroad.com/l/plzuqw
+
+---
+
 ## Future Enhancements (Todo)
 
 - [ ] Keyboard shortcut (e.g., Alt+A)
