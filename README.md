@@ -8,6 +8,15 @@ User → Extension → Gemini AI API (Free)
 
 ---
 
+## Demo
+https://youtu.be/D4gojP3h1AY?si=kkJcfubJVjSwDBWp
+
+---
+
+## Screenshot
+![interface](image.png)
+![highlight-text](image2.png)
+---
 ## Features
 
 - **Summarize**: Get a concise summary of long articles.
